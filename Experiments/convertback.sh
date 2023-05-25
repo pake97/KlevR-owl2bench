@@ -8,7 +8,6 @@ for profile in EL QL RL DL
 do
 	for univ in 1 2 5 10 20 50 100 200
 	do
-
 		java -jar convert.jar rdf OWL2$profile-$univ.owl
 	done
 done

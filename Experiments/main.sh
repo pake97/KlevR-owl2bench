@@ -22,6 +22,14 @@
 #Now, from the terminal, change to this 'New Directory' and run this main script. 
 
 
+############################################
+#script for dataset generation
+./resources.sh >resources.log
+
+
+#For the counts given in Table 3 of the paper, see log count.log
+
+############################################
 
 
 
